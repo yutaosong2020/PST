@@ -28,6 +28,7 @@ along with PST. If not, see <http://www.gnu.org/licenses/>.
 
 struct SVisualConnectivityDesc
 {
+	PSTA_DECL_STRUCT_NAME(SVisualConnectivityDesc)
 	SVisualConnectivityDesc() : m_Version(VERSION) {}
 
 	// Version
