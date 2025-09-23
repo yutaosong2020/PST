@@ -34,3 +34,6 @@ add_library(pstalgo SHARED ${SOURCES})
 
 # Set the location for library installation -- i.e., /usr/lib in this case
 # install(TARGETS testStudent DESTINATION /usr/lib)
+
+# Add PSTADLL_EXPORTS definition for Windows DLL exports
+target_compile_definitions(pstalgo PRIVATE PSTADLL_EXPORTS)
