@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PSTAlgo.Interop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae3e32330afd5a365f25068c64d170a5bcd8fe41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+114eed6cd9ca92a29ce5678d8f19f6cd2469d854")]
 [assembly: System.Reflection.AssemblyProductAttribute("PSTAlgo.Interop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PSTAlgo.Interop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

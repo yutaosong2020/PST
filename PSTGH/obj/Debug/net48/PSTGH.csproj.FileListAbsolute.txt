@@ -1,0 +1,14 @@
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.csproj.AssemblyReference.cache
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.AssemblyInfoInputs.cache
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.AssemblyInfo.cs
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.csproj.CoreCompileInputs.cache
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.sourcelink.json
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\bin\Debug\net48\PSTGH.gha
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\bin\Debug\net48\PSTGH.pdb
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\bin\Debug\net48\PSTAlgo.Interop.dll
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\bin\Debug\net48\PSTAlgo.Interop.pdb
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.csproj.Up2Date
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.gha
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\obj\Debug\net48\PSTGH.pdb
+C:\Users\ysong\Documents\GitHub\PST\PSTGH\bin\Debug\net48\pstalgo64.dll

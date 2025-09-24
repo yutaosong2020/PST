@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <Version>1.0</Version>
+    <Title>PSTGH</Title>
+    <Description>Description of PSTGH</Description>
+    <TargetExt>.gha</TargetExt>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.32.1" />
+    <PackageReference Include="Grasshopper" Version="7.13.21348.13001" IncludeAssets="compile;build" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpWrapper\PSTAlgo.Interop\PSTAlgo.Interop.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <None Include="..\pstalgo\bin\pstalgo64.dll">
+      <Link>pstalgo64.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </None>
+  </ItemGroup>
+  
+  <PropertyGroup Condition="$(Configuration) == 'Debug' AND $([MSBuild]::IsOSPlatform(Windows))">
+    <StartProgram>C:\Program Files\Rhino 7\System\Rhino.exe</StartProgram>
+    <StartArguments></StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+
+  <Target Name="PostBuildCopyNative" AfterTargets="Build">
+    <ItemGroup>
+      <NativeFiles Include="..\pstalgo\bin\pstalgo64.dll" />
+    </ItemGroup>
+    <Copy SourceFiles="@(NativeFiles)" DestinationFolder="$(TargetDir)" SkipUnchangedFiles="true" Condition="Exists('%(NativeFiles.Identity)')" />
+  </Target>
+
+</Project>
