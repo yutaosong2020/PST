@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = PSTAlgo.Interop
+build_property.ProjectDir = C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

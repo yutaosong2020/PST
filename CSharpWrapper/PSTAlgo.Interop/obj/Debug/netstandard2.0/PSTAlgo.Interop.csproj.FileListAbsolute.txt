@@ -1,0 +1,11 @@
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\bin\Debug\netstandard2.0\PSTAlgo.Interop.deps.json
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\bin\Debug\netstandard2.0\PSTAlgo.Interop.dll
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\bin\Debug\netstandard2.0\PSTAlgo.Interop.pdb
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.csproj.AssemblyReference.cache
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.AssemblyInfoInputs.cache
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.AssemblyInfo.cs
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.csproj.CoreCompileInputs.cache
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.sourcelink.json
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.dll
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.Interop\obj\Debug\netstandard2.0\PSTAlgo.Interop.pdb

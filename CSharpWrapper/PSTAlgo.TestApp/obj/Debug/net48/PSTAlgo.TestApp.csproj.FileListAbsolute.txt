@@ -1,0 +1,15 @@
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.csproj.AssemblyReference.cache
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.AssemblyInfoInputs.cache
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.AssemblyInfo.cs
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.csproj.CoreCompileInputs.cache
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.sourcelink.json
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\bin\Debug\net48\PSTAlgo.TestApp.exe.config
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\bin\Debug\net48\PSTAlgo.TestApp.exe
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\bin\Debug\net48\PSTAlgo.TestApp.pdb
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\bin\Debug\net48\PSTAlgo.Interop.dll
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\bin\Debug\net48\PSTAlgo.Interop.pdb
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo..9B4ADCAA.Up2Date
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.exe
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.pdb
+C:\Users\ysong\Documents\GitHub\PST\CSharpWrapper\PSTAlgo.TestApp\obj\Debug\net48\PSTAlgo.TestApp.exe.config

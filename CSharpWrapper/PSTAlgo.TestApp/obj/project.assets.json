@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "PSTAlgo.Interop/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PSTAlgo.Interop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PSTAlgo.Interop.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "PSTAlgo.Interop/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PSTAlgo.Interop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PSTAlgo.Interop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSTAlgo.Interop/1.0.0": {
+      "type": "project",
+      "path": "../PSTAlgo.Interop/PSTAlgo.Interop.csproj",
+      "msbuildProject": "../PSTAlgo.Interop/PSTAlgo.Interop.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "PSTAlgo.Interop >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ysong\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ysong\\Documents\\GitHub\\PST\\CSharpWrapper\\PSTAlgo.TestApp\\PSTAlgo.TestApp.csproj",
+      "projectName": "PSTAlgo.TestApp",
+      "projectPath": "C:\\Users\\ysong\\Documents\\GitHub\\PST\\CSharpWrapper\\PSTAlgo.TestApp\\PSTAlgo.TestApp.csproj",
+      "packagesPath": "C:\\Users\\ysong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ysong\\Documents\\GitHub\\PST\\CSharpWrapper\\PSTAlgo.TestApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ysong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "C:\\Users\\ysong\\Documents\\GitHub\\PST\\CSharpWrapper\\PSTAlgo.Interop\\PSTAlgo.Interop.csproj": {
+              "projectPath": "C:\\Users\\ysong\\Documents\\GitHub\\PST\\CSharpWrapper\\PSTAlgo.Interop\\PSTAlgo.Interop.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
